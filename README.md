@@ -1,6 +1,19 @@
 [![Build Status](https://travis-ci.org/rrousselGit/provider.svg?branch=master)](https://travis-ci.org/rrousselGit/provider)
 [![pub package](https://img.shields.io/pub/v/provider.svg)](https://pub.dartlang.org/packages/provider) [![codecov](https://codecov.io/gh/rrousselGit/provider/branch/master/graph/badge.svg)](https://codecov.io/gh/rrousselGit/provider) [![Gitter](https://badges.gitter.im/flutter_provider/community.svg)](https://gitter.im/flutter_provider/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
+## How to install WEB Version (this repository)
+
+Add the following codes to the `pubspec.yaml` and then run `flutter pub get` or `flutter pub upgrade`.
+
+```yaml
+dependencies:
+  # ... othre dependencies
+  provider_web:
+    git:
+      url: https://github.com/dart-for-apps/provider_web
+      path: packages/provider/
+```
+
 A mixture between dependency injection (DI) and state management, built with widgets for widgets.
 
 It purposefully uses widgets for DI/state management instead of dart-only classes like `Stream`.

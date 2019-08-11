@@ -1,5 +1,5 @@
-import 'package:flutter/widgets.dart';
-import 'package:provider/src/provider.dart' show Provider;
+import 'package:flutter_web/widgets.dart';
+import 'package:provider_web/src/provider.dart' show Provider;
 
 /// A function that creates an object of type [T].
 ///

@@ -1,5 +1,5 @@
-import 'package:flutter/widgets.dart';
-import 'package:provider/provider.dart';
+import 'package:flutter_web/widgets.dart';
+import 'package:provider_web/provider.dart';
 
 import 'delegate_widget.dart';
 import 'provider.dart';

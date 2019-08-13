@@ -14,6 +14,8 @@ dependencies:
       path: packages/provider/
 ```
 
+## Provider 
+
 A mixture between dependency injection (DI) and state management, built with widgets for widgets.
 
 It purposefully uses widgets for DI/state management instead of dart-only classes like `Stream`.

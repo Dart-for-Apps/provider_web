@@ -4,6 +4,7 @@
 ## How to install WEB Version (this repository) - DEPRECATED
 
 **Becuase flutter now support original `flutter` package for web app, you can use original `provider`.**
+
 Add the following codes to the `pubspec.yaml` and then run `flutter pub get` or `flutter pub upgrade`.
 
 ```yaml

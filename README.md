@@ -1,8 +1,9 @@
 [![Build Status](https://travis-ci.org/rrousselGit/provider.svg?branch=master)](https://travis-ci.org/rrousselGit/provider)
 [![pub package](https://img.shields.io/pub/v/provider.svg)](https://pub.dartlang.org/packages/provider) [![codecov](https://codecov.io/gh/rrousselGit/provider/branch/master/graph/badge.svg)](https://codecov.io/gh/rrousselGit/provider) [![Gitter](https://badges.gitter.im/flutter_provider/community.svg)](https://gitter.im/flutter_provider/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
-## How to install WEB Version (this repository)
+## How to install WEB Version (this repository) - DEPRECATED
 
+**Becuase flutter now support original `flutter` package for web app, you can use original `provider`.**
 Add the following codes to the `pubspec.yaml` and then run `flutter pub get` or `flutter pub upgrade`.
 
 ```yaml
